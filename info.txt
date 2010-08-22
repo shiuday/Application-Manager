@@ -1,6 +1,6 @@
+uday
 6to4.conf
 afpovertcp.cfg
-aliases
 aliases.db
 amavisd.conf
 apache2
